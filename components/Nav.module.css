@@ -1,0 +1,15 @@
+.nav {
+    background-color: gold ;
+}
+
+.nav ul {
+    margin: 0;
+    list-style-type: none;
+    display:flex;
+    justify-content: space-around;
+    font-size: large;
+    padding: 10px;
+}
+.nav:link {
+    color: rgb(255, 255, 255);
+}
